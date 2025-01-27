@@ -24,14 +24,13 @@ Este README fornece **instruções** para clonar, executar e testar ambas as apl
 
 ## Tecnologias e Pré-Requisitos
 
-- **Java 11+** (ou superior)
+- **Java 17** (ou superior)
 - **Maven 3.6+**
 - **Spring Boot** (versões 2.x ou 3.x, conforme configurado no pom.xml)
 - **Banco de Dados H2** (in memory)
 - **OpenFeign** (Comunicação entre microsserviços)
 - **JUnit 5** / **Mockito** (Testes Unitários)
-- **JaCoCo** (Cobertura de testes, se desejado)
-
+- 
 ---
 
 ## Arquitetura do Projeto
