@@ -1,4 +1,3 @@
-```markdown
 # Projeto Banco JAVER – Ecossistema de Microsserviços com Spring Boot
 
 Bem-vindo(a) ao projeto **Banco JAVER**, que consiste em duas aplicações Spring Boot para demonstrar uma arquitetura de microsserviços:
